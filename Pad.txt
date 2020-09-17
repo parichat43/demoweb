@@ -1,0 +1,4 @@
+Githubได้5project ไม่จำกัดคน
+Bitbucket
+Gitlab Unlimitใช้กี่คนก็ได้ กี่projectก็ได้
+Azure DevOps ไม่ฟรีสักอย่าง ต้องDevด้วยToolฝั่ง Microsoft
